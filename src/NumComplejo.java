@@ -3,7 +3,7 @@
 /**
  * Programa que realiza operaciones con numeros complejos
  * 
- * @author Cristina Castillo Obregón
+ * @author Cristina Castillo ObregÃ³n
  * 
  * @version 2.0.1
  */
@@ -12,6 +12,11 @@ public class NumComplejo {
 	private double pReal;
 	private double pImaginaria;
 
+	/**
+	 * Constructor.
+	 * 
+	 * VacÃ­o
+	 */
 	public NumComplejo(){
 
 	}
@@ -59,7 +64,7 @@ public class NumComplejo {
 	/**
 	 * Getter.
 	 * 
-	 * @return parte imaginaria del número.
+	 * @return parte imaginaria del nÃºmero.
 	 */
 	public double getpImaginaria() {
 		return pImaginaria;
@@ -79,10 +84,10 @@ public class NumComplejo {
 
 	
 	/**
-	 * Suma dos números complejos.
+	 * Suma dos nÃºmeros complejos.
 	 * 
 	 * @param NumComplejo c1, NumComplejo c2
-	 *           números complejos.
+	 *           nÃºmeros complejos.
 	 *           
 	 * @return result
 	 * 			resultado de la suma
@@ -98,10 +103,10 @@ public class NumComplejo {
 
 	
 	/**
-	 * Resta dos números complejos.
+	 * Resta dos nÃºmeros complejos.
 	 * 
 	 * @param NumComplejo c1, NumComplejo c2
-	 *           números complejos.
+	 *           nÃºmeros complejos.
 	 *           
 	 * @return result
 	 * 			resultado de la resta
@@ -116,13 +121,13 @@ public class NumComplejo {
 	}
 
 	/**
-	 * Multiplicar dos números complejos.
+	 * Multiplicar dos nÃºmeros complejos.
 	 * 
 	 * @param NumComplejo c1, NumComplejo c2
-	 *           números complejos.
+	 *           nÃºmeros complejos.
 	 *           
 	 * @return result
-	 * 			resultado de la multipliación
+	 * 			resultado de la multipliaciÃ³n
 	 */
 	public static NumComplejo multiplicarComplejos (NumComplejo c1, NumComplejo c2){
 		NumComplejo result = new NumComplejo();
@@ -139,13 +144,13 @@ public class NumComplejo {
 	}
 
 	/**
-	 * Divide dos números complejos.
+	 * Divide dos nÃºmeros complejos.
 	 * 
 	 * @param NumComplejo c1, NumComplejo c2
-	 *           números complejos.
+	 *           nÃºmeros complejos.
 	 *           
 	 * @return result
-	 * 			resultado de la división
+	 * 			resultado de la divisiÃ³n
 	 */
 	public  static NumComplejo dividirComplejos (NumComplejo c1, NumComplejo c2){
 		NumComplejo result = new NumComplejo();
@@ -166,10 +171,10 @@ public class NumComplejo {
 	}
 
 	/**
-	 * Devuelve el módulo de un número complejo.
+	 * Devuelve el mÃ³dulo de un nÃºmero complejo.
 	 * 
 	 * @param NumComplejo numComplejo 
-	 *           número complejo.
+	 *           nÃºmero complejo.
 	 *           
 	 * @return modulo 
 	 */
