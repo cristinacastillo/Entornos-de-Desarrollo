@@ -16,5 +16,5 @@
     4. División
     
 ### Ejemplo de uso 
-![Philadelphia's Magic Gardens. This place was so cool!](/Entornos-de-Desarrollo/Complejos/src/Screenshot_17.png "Philadelphia's Magic Gardens")
+![Philadelphia's Magic Gardens. This place was so cool!](/Complejos/src/Screenshot_17.png "Philadelphia's Magic Gardens")
 
