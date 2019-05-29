@@ -1,1 +1,2 @@
-sf
+
+# Qué hace el programa
