@@ -16,6 +16,5 @@
     4. División
     
 ### Ejemplo de uso 
-
-https://github.com/cristinacastillo/Entornos-de-Desarrollo/Screenshot_17.png
+![Philadelphia's Magic Gardens. This place was so cool!](/Entosnos-de-Desarrollo/Screenshot_17.png "Philadelphia's Magic Gardens")
 
