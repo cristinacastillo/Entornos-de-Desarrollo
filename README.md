@@ -17,5 +17,5 @@
     
 ### Ejemplo de uso 
 
-![Imagen del programa en funcionamiento](C:\Users\crcs\Desktop\DAW\ENTORNOS DE DESARROLLO\Tema 11\Screenshot_17.png)
+https://github.com/cristinacastillo/Entornos-de-Desarrollo/Screenshot_17.png
 
