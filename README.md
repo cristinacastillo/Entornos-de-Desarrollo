@@ -16,5 +16,5 @@
     4. División
     
 ### Ejemplo de uso 
-![Funcionamiento del programa](/Entornos-de-Desarrollo/src/Screenshot_17.png "Operaciones con números complejos")
+![Funcionamiento del programa](/src/Screenshot_17.png "Operaciones con números complejos")
 
